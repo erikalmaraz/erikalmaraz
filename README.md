@@ -3,7 +3,7 @@
     <img width="400" src="https://rishavanand.github.io/static/images/greetings.gif" alt="erikalmaraz" />
 </p>
 <h1 align="center">I'm Erik Almaraz</h1>
-<h3 align="center">A Senior Software Engineer with +8 years of experience. 
+<h3 align="center">A Senior Software Engineer with +9 years of experience. 
 </br> </br>
 Working from LATAM.</h3>
 
