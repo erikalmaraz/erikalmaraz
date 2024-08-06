@@ -9,13 +9,15 @@ Working from LATAM.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erikalmaraz&label=Profile%20views&color=0e75b6&style=flat" alt="erikalmaraz" /> </p>
 
-- 🔭 I’m currently working full-time on **[gohoken.com](https://gohoken.com/)** & co-founding  **[heygrows.com](https://heygrows.com/)**
+- 🔭 I’m currently working full-time on **[gohoken.com](https://gohoken.com/)** & co-founding some other projects**
 
 - 🌱 I’m currently learning **AI and Cybersecurity**
 
 - 📝 I regularly write articles related to tech things in LATAM on [https://medium.com/@erikalmaraz_](https://medium.com/@erikalmaraz_)
 
 - 📫 How to reach me **hola@erikalmaraz.com**
+
+- 🚀 Busy making code that makes me money. Don't look too closely here; all my repos are private.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
