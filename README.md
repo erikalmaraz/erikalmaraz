@@ -9,7 +9,7 @@ Working from LATAM.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erikalmaraz&label=Profile%20views&color=0e75b6&style=flat" alt="erikalmaraz" /> </p>
 
-- 🔭 I’m currently working full-time on **[gohoken.com](https://gohoken.com/)** & co-founding some other projects**
+- 🔭 I’m currently working full-time at **[gohoken.com](https://gohoken.com/)** && co-founding **Wisel** an app to learn languages with AI.
 
 - 🚀 Busy making code that makes me money. Don't look too closely here; all my repos are private.
 
